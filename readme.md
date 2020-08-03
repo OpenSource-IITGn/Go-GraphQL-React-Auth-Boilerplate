@@ -1,4 +1,4 @@
-## 🔥 An awesome Go - GraphQL - React Boilerplate for awesome projects with JWT (cookies) Authentication
+## 🔥 An awesome Go - GraphQL - React Boilerplate with JWT (cookies) Authentication
 ---
 ### ✨ Frontend 
 - React
