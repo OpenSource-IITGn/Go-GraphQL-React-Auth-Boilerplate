@@ -17,14 +17,21 @@
 
 ### ✨ Installation
 
-Setup PostgreSQL DB and user.
+Make sure you have GO sdk and Postgres Installed.
+
+Setup PostgreSQL DB and user. [ default db=go, user="go", password="go"  or configure db.go ]
 
 `go init server\migrations\init.go`
 
 `go run server\server.go`
 
-React --
-`npm install`
+
+Frontend
+
+`cd client`
+
+`npm install` or `yarn`
+
 `npm run` or `yarn start`
 
 ### ✨ Authentication Strategy
