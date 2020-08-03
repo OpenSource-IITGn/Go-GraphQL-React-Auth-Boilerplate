@@ -1,22 +1,21 @@
-## An awesome Go - GraphQL - React Boilerplate for awesome projects with JWT (cookies) Authentication
-
+## 🔥 An awesome Go - GraphQL - React Boilerplate for awesome projects with JWT (cookies) Authentication
 ---
-### Frontend
--- React
--- Apollo-GraphQL
--- React-hooks
--- React-Suite ( UI Framework )
+### ✨ Frontend 
+- React
+- Apollo-GraphQL
+- React-hooks
+- React-Suite ( UI Framework )
 
 
-### Backend
+### ✨ Backend
 
--- Go ( Gorm )
--- Graphql-go
--- PostgresSQL
--- jwt-go
+- Go ( **Gorm** )
+- Graphql-go
+- PostgresSQL
+- jwt-go
 
 
-### Installation
+### ✨ Installation
 
 Setup PostgreSQL DB and user.
 
@@ -27,3 +26,7 @@ Setup PostgreSQL DB and user.
 React --
 `npm install`
 `npm run` or `yarn start`
+
+### ✨ Authentication Strategy
+
+![](https://miro.medium.com/max/849/1*EZ6DLFeSdCiu9Sf_NvViXg.png)
