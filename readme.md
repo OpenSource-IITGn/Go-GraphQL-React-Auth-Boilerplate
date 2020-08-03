@@ -1,5 +1,4 @@
 ## 🔥 An awesome Go - GraphQL - React Boilerplate with JWT (cookies) Authentication
----
 ![](./bg.jpg)
 
 ### ✨ Frontend 
