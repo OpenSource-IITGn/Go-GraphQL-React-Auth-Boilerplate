@@ -38,3 +38,9 @@ Frontend
 ### ✨ Authentication Strategy
 
 ![](https://miro.medium.com/max/849/1*EZ6DLFeSdCiu9Sf_NvViXg.png)
+
+
+### ✨ Credits
+
+- [mattdamon108/go-graphql-api-boilerplate](https://github.com/mattdamon108/go-graphql-api-boilerplate#how-to-run)
+- [Token authentication with React and Apollo Client— a detailed example](https://medium.com/ovrsea/token-authentication-with-react-and-apollo-client-a-detailed-example-a3cc23760e9)
